@@ -13,6 +13,9 @@ const App = () => {
     <li>sleep well</li>
     </ui>
     <p> what I am doing today is try to finish the work of the </p>
+    <p> I am going to the gym at 6:00 pm</p>
+    <p> I am going to eat a salad</p>
+    <p> I am going to sleep at 10:00 pm</p>
     
     </>
   )
