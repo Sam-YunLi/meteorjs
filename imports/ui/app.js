@@ -20,6 +20,8 @@ const App = () => {
     <div>
       <p>The adc. ABC status. A dog</p>
       <p>As a dog XD</p>
+      <p>As a dog XD</p>
+      <p>As a dog XD</p>
     </div>
 
     <>today</>
